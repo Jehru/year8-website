@@ -1,0 +1,67 @@
+
+
+
+<link rel="stylesheet"type="text/css"href="types-of-music.css"> 
+
+
+<p> <a href="index.html">Home</a> <a href="types-of-music.html">Types of Music</a> <a href="how-music-helps-you.html">How Music is Good for you</a>
+<a href="aboutus.html">About Us</a></p>
+
+
+
+<body>
+<h1>Types of Music</h1>
+
+<p>These are some popular Genres</p>
+<ul>
+  <li>Techno</li>
+  <li>Folk Music</li>
+  <li>Hip-Hop</li>
+  <li>Trance</li>
+  <li>Jazz</li>
+  <li>Heavy Metal</li>
+  <li>Rock</li>
+  <li>Classical Music</li>
+  
+ 
+</ul> 
+
+<p>Here is all about the music</p>
+<br>
+
+
+<p>Classical music is the main form of music, and refers mainly to the music which prevailed in the world before the 20th century. Classical music is a complex form of music and requires intensive training and knowledge. Classical music may also refer to the local and folk music of any particular country or region. In the world of Western music, the works of Haydn, Mozart and Beethoven are defined as classical music.
+</p>
+
+<p>Rock music came into existence in the rock and roll era of the 1950s. Rock music has its focus mainly on guitars, drums and heavy vocals. However, use of piano, synthesizer, saxophone, flute, mandolin and sitar has also been witnessed in the modern rock era. These instruments are mainly used to create a deeper impact. Elvis Presley and The Beatles are considered to be the pioneers of rock music. Over the years, rock music has diversified into various genres like hard rock, metal rock, progressive rock etc.
+</p>
+
+<p>Heavy metal music, also known as ‘information music’, started off after the Second World War. It includes various sub-genres, such as thrash metal, death metal, black metal and so on. The most important requirement of a heavy metal band is the presence of at least one electronic guitarist. There may be a few soft and subtle pieces, but most of the songs are loud, fast and aggressive with some heavy use of the guitar and drums, and lot of screaming, mostly in death metal. Led Zeppelin and Black Sabbath were some of the famous bands of this genre.
+</p>
+
+
+<p>Jazz music owes its origin to the African American communities in the Southern United States. Cornet, trumpet, saxophone, piano and violin are the main instruments used in jazz music. Jazz music carries a strong and intricate rhythm and is a lot influenced by the blues in terms of using components like blue notes and phrasing of melodies. Louis Armstrong, Ella Fitzgerald and Freddie Hubbard were some of the most famous jazz artists.
+</p>
+
+
+<p>Trance music is characterized by fast beats, short melodic synthesizer phrases, and a musical form that varies up and down throughout a track.. Trance music is mostly played in clubs and discotheques, for listeners to groove and dance. The name trance suggests the hypnotic effect of this type of music, and quite often gets associated with the use of drugs. Trance music is a combination of various forms of music such as industrial, techno, and house.
+</p>
+
+<p>Hip-hop music originated among the Black American during the 1970s, with a deep influence from the Jamaican music. Hip-hop employs bass as the main instrument and includes rapping and audio mixing. Bob Marley and Roberts Nesta Marley were the pioneers in popularizing hip-hop music. By 2000, hip-hop made its way to the world music charts, and now with the success of hip-hop artists like Eminem, 50 Cents, Usher and Akon, hip-hop is going places around the globe.
+</p>
+
+<p>Folk music or traditional music mirrors the needs, desire, likes, dislikes and life of the local people. Folk music mostly depicts the struggle for survival and culture of the people. Country music is a genre that has evolved out of folk music. Bob Dylan’s songs have become anthem for people fighting against social injustice. 
+</p>
+
+<p>Techno, also known as fusion, is an electronic dance music influenced from the African American styles like funk, electro and electric jazz. It was developed by a group known as “The Belleville Three”, initiated by Derrick May, Kevin Saunderson and Juan Atkins in the suburbs of Detroit. Among the various styles of techno that exists today, Detroit Techno is considered to be the base for all others. Techno music is mainly an instrumental genre that uses instruments like synthesizers, drum machines, multi-tracking and hardware sequencers for creating harmony.
+</p>
+
+
+
+
+
+
+
+<img src="musical-instruments.jpg" alt="Group of musical instruments" style="width:304px;height:228px">
+
+</body>

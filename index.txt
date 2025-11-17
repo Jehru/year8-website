@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+    <html>
+
+ <head>
+ <title>Music</title>
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+   
+      
+      <link rel="stylesheet"type="text/css"href="CSS.css"> 
+  
+  </head>
+
+
+
+<body>
+
+
+
+<h1>Music</h1>
+
+
+<p> <a href="index.html">Home</a> <a href="types-of-music.html">Types of Music</a> <a href="how-music-helps-you.html">How Music is Good for you</a>
+<a href="aboutus.html">About Us</a></p>
+
+
+
+<table border="1" style="width:100%">
+<caption>most popular music and how much it made<caption>
+ <tr>
+
+        <td>The Monster by Eminem</td>
+        <td> 35.1 million streams</td>
+        <td>$210,000 – $294,000</td>
+</tr> 
+<tr>
+	<td>Timber by Pitbull</td>
+        <td>32.0 million streams </td>
+        <td>$192,000 – $269,000</td>
+</tr>
+<tr>
+       <td> Lorde by Royals</td>
+       <td>65.3 million streams</td>
+       <td>$392,000 – $549,000</td>
+</tr>
+<tr> 
+      <td>OneRepublic by Counting Stars</td>
+      <td>57.7 million streams</td>
+      <td>$346,000 – $484,000</td>
+</tr>
+<tr>
+      <td>Hey Brother by Avicii</td>
+      <td>46.5 million streams</td>
+      <td>$279,000 – $391,000</td>
+</tr>
+<tr>
+      <td>Wrecking Ball by Miley Cyrus</td>
+      <td>60.4 million streams</td>
+      <td>$363,000 – $508,000</td>
+</tr>
+<tr>
+      <td>Roar by Katy Perry</td>
+      <td>64.6 million streams</td>
+      <td>$388,000 – $543,000</td>
+</tr>
+<tr>
+      <td>Wake Me Up by Avicii</td>
+      <td>152.1 million streams</td>
+      <td>$913,000 – $1.3 million</td>
+</tr>
+<tr>
+      <td>Hold On, We’re Going Home by Drake</td>
+      <td>47.1 million streams</td>
+      <td>$283,000 – $396,000</td>
+</tr>  
+<tr>
+      <td>Burn by Ellie Goulding</td>
+      <td>53.8 million streams</td>
+      <td>$323,000 – $452,000</td>
+</tr>  
+
+
+      
+<a href="http://www.bbc.co.uk/learning/subjects/music.shtml">learn music at BBC.co.uk</a>
+
+</table>   
+
+
+<img src="musical-instruments.jpg" alt="Group of musical instruments" style="width:304px;height:228px">
+
+
+
+</body>
+</html>
+
+
+<!--1 page must conatain references-->
+<!-- need 3-5 pages-->
